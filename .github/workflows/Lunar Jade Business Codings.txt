@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lunar Jade</title>
+</head>
+<body bgcolor="#e8f5e9" text="#333333">
+
+    <!-- Header Section -->
+    <center>
+        <table width="100%" bgcolor="#2e7d32" cellpadding="15">
+            <tr>
+                <td align="center">
+                    <font color="white" size="6"><b>💎 Lunar Jade</b></font>
+                </td>
+            </tr>
+        </table>
+
+        <!-- Navigation Bar -->
+        <table width="100%" bgcolor="#81c784" cellpadding="10">
+            <tr>
+                <td align="center">
+                    <a href="#products"><font color="#1b5e20"><b>Products</b></font></a> | 
+                    <a href="#about"><font color="#1b5e20"><b>About</b></font></a> | 
+                    <a href="#contact"><font color="#1b5e20"><b>Contact</b></font></a>
+                </td>
+            </tr>
+        </table>
+
+        <br><br>
+
+        <!-- Products Section -->
+        <h2 id="products"><font color="#1b5e20">Our Signature Designs</font></h2>
+
+        <table cellpadding="10">
+            <tr>
+                <!-- Product 1 -->
+                <td align="center" bgcolor="white" border="1" width="180">
+                    <img src="https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=200" width="150" height="120"><br>
+                    <h3>Anya Celestial Necklace</h3>
+                    <p>A beautiful layered gold necklace featuring a square teal-green stone and a celestial crescent moon pendant.</p>
+                    <p><font color="#388e3c"><b>₱299</b></font></p>
+                    <button><font color="black">Buy Now</font></button>
+                </td>
+
+                <!-- Product 2 -->
+                <td align="center" bgcolor="white" border="1" width="180">
+                    <img src="https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=200" width="150" height="120"><br>
+                    <h3>Halo Marquise Engagement Ring</h3>
+                    <p>A dazzling 1.5-carat marquise-cut crystal center stone surrounded by a brilliant pavé halo.</p>
+                    <p><font color="#388e3c"><b>₱199</b></font></p>
+                    <button><font color="black">Buy Now</font></button>
+                </td>
+
+                <!-- Product 3 -->
+                <td align="center" bgcolor="white" border="1" width="180">
+                    <img src="https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=200" width="150" height="120"><br>
+                    <h3>Sparkling Diamond-cut Link Bracelet</h3>
+                    <p>A glamorous linked chain bracelet featuring interlocking pavé crystal segments.</p>
+                    <p><font color="#388e3c"><b>₱99</b></font></p>
+                    <button><font color="black">Buy Now</font></button>
+                </td>
+            </tr>
+            <tr>
+                <!-- Product 4 -->
+                <td align="center" bgcolor="white" border="1" width="180">
+                    <img src="https://images.unsplash.com/photo-1630019852942-f89202989a59?w=200" width="150" height="120"><br>
+                    <h3>Sapphire Heart Gold Drop Earrings</h3>
+                    <p>A pair of gold-plated drop earrings featuring beautiful, multi-faceted sapphire-blue crystal hearts.</p>
+                    <p><font color="#388e3c"><b>₱149</b></font></p>
+                    <button><font color="black">Buy Now</font></button>
+                </td>
+
+                <!-- Product 5 -->
+                <td align="center" bgcolor="white" border="1" width="180">
+                    <img src="https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=200" width="150" height="120"><br>
+                    <h3>Turquoise Statement Bangle</h3>
+                    <p>A bold silver-toned cuff featuring large oval turquoise stones and intricate crystal halos.</p>
+                    <p><font color="#388e3c"><b>₱349</b></font></p>
+                    <button><font color="black">Buy Now</font></button>
+                </td>
+            </tr>
+        </table>
+
+        <br><br>
+
+        <!-- About Section -->
+        <table width="80%" bgcolor="white" cellpadding="15" border="1" id="about">
+            <tr>
+                <td>
+                    <h3 align="center"><font color="#1b5e20">Why Choose Us?</font></h3>
+                    <ul>
+                        <li>Curated Collection of Exquisite Designs</li>
+                        <li>Meticulously Selected Gemstones</li>
+                        <li>Secured Payment & Shipping</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+
+        <br><br>
+
+        <!-- Footer Section -->
+        <table width="100%" bgcolor="#2e7d32" cellpadding="15" id="contact">
+            <tr>
+                <td align="center">
+                    <font color="white">
+                        <p>Contact: support@lunarjade.ph</p>
+                        <p>&copy; 2026 Lunar Jade Jewelry</p>
+                    </font>
+                </td>
+            </tr>
+        </table>
+    </center>
+
+</body>
+</html>
